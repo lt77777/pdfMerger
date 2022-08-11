@@ -1,6 +1,6 @@
 # PDF Merger
 
-Script to merge PDF's easily
+Script to merge PDFs easily
 
 #### Set up the conda environment
 
