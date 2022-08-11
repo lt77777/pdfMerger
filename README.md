@@ -12,7 +12,7 @@ Update Anaconda if needed by running
 conda update -n base conda
 ```
 
-To download the dependencies and create the conda environment, inside the NATHACKS_Submission directory, run:
+To download the dependencies and create the conda environment, run:
 
 ```
 conda env create --file environment.yml
